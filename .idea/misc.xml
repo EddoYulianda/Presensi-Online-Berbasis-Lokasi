@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Eddo Yulianda/AndroidStudioProjects/PresensiOnlinePNP/app/src/main/res/drawable/bg_btn_primary.xml" value="0.15" />
+        <entry key="..\:/Users/Eddo Yulianda/AndroidStudioProjects/PresensiOnlinePNP/app/src/main/res/drawable/bg_edit_text.xml" value="0.15" />
+        <entry key="..\:/Users/Eddo Yulianda/AndroidStudioProjects/PresensiOnlinePNP/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/Eddo Yulianda/AndroidStudioProjects/PresensiOnlinePNP/app/src/main/res/layout/activity_main.xml" value="0.12395833333333334" />
         <entry key="..\:/Users/Eddo Yulianda/AndroidStudioProjects/PresensiOnlinePNP/app/src/main/res/layout/activity_splash.xml" value="0.33" />
       </map>
