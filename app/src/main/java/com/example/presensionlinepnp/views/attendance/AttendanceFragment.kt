@@ -35,13 +35,13 @@ class AttendanceFragment : Fragment(), OnMapReadyCallback {
 
     override fun onMapReady(googleMap: GoogleMap) {
         map = googleMap
-        val sydney = LatLng(-0.923801, 100.373505)
+        val padang = LatLng(-0.923801, 100.373505)
         googleMap.addMarker(
             MarkerOptions()
-                .position(sydney)
+                .position(padang)
                 .title("Padang, Ampang ( Eddo Yulianda )")
         )
-        map?.moveCamera(CameraUpdateFactory.newLatLng(sydney))
+        map?.moveCamera(CameraUpdateFactory.newLatLng(padang))
         map?.animateCamera(CameraUpdateFactory.zoomTo(20f))
 
     }
