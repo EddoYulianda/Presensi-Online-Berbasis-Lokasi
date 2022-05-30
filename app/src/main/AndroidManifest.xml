@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PresensiOnlinePNP">
         <activity
+            android:name=".views.changepass.ChangePasswordActivity"
+            android:exported="false" />
+        <activity
             android:name=".views.forgotpass.ForgotPasswordActivity"
             android:exported="false" />
         <activity
@@ -30,8 +33,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_key"/>
-
+            android:value="@string/google_maps_key" />
     </application>
 
 </manifest>
